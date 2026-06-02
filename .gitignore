@@ -1,0 +1,13 @@
+target/
+*.class
+*.log
+.idea/
+.vscode/
+*.iml
+apache-maven-3.9.8/
+*.db
+.DS_Store
+/.settings/
+bin/
+logs/
+*.war
